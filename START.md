@@ -1,5 +1,7 @@
-# Start
+# Start / stop — CodeClip
 
-npm start → http://127.0.0.1:8787/
+```bash
+npm start
+```
 
-Stop with Ctrl+C. Bound to 127.0.0.1.
+Open http://127.0.0.1:8787/ — bound to localhost only. Stop with Ctrl+C.

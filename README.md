@@ -1,14 +1,15 @@
-# Code Snippet Clipper and Organizer
+# CodeClip
 
-A simple, local web app for organizing and sharing code snippets.
+Local-first code snippet desk for developers. Create, tag, search, copy, and export snippets — data stays in your browser on **127.0.0.1**.
 
-## Trend
+## Features
 
-CleanYourTV (22824)
-
-## Users
-
-Developers, coders, and software engineers looking to manage their code snippets efficiently.
+- Create / edit / delete snippets
+- Tags + full-text search
+- Language filter
+- Copy to clipboard
+- JSON import / export
+- Seeded demo snippet on first load
 
 ## Setup
 
@@ -23,6 +24,10 @@ npm start   # http://127.0.0.1:8787/
 
 Ctrl+C
 
-## Research
+## Privacy
 
-See RESEARCH.md (representative public scan).
+No accounts. Persistence is `localStorage` only. Export is opt-in.
+
+## License
+
+MIT

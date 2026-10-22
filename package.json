@@ -1,8 +1,9 @@
 {
-  "name": "codeclip",
-  "version": "1.0.0",
+  "name": "codeclip-app",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
+  "description": "Local-first code snippet desk. Bound to 127.0.0.1.",
   "scripts": {
     "dev": "vite --host 127.0.0.1 --port 8787",
     "start": "vite preview --host 127.0.0.1 --port 8787 --strictPort",
@@ -10,7 +11,6 @@
     "test": "node --test test/*.test.js"
   },
   "devDependencies": {
-    "vite": "^7.1.10",
-    "typescript": "^5.9.3"
+    "vite": "^7.1.10"
   }
 }
