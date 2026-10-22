@@ -25,3 +25,7 @@ Signals:
 - ly05010419/MacNativeGames
 - jhaizhou-ops/d2r-mobile
 - storytold/craft-launcher
+
+## 2026-10-22 — pinned-favorites-v1
+
+Pin favorite snippets so they stay at the top of the list.
