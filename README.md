@@ -31,3 +31,13 @@ No accounts. Persistence is `localStorage` only. Export is opt-in.
 ## License
 
 MIT
+
+## Self-adaptation
+
+This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
+
+**Latest:** Enhance CodeClip with Trend Insights
+
+Integrate real-time trend signals to categorize and prioritize code snippets, improve user engagement through AI-driven recommendations, and enhance the app’s discoverability by incorporating social sharing features.
+
+See `learning/LATEST.json` and `public/insights.json`.

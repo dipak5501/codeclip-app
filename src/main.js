@@ -174,3 +174,17 @@ function escapeAttr(s) {
 }
 
 render();
+
+
+// Self-adaptation insights (injected)
+fetch("/insights.json", { cache: "no-store" })
+  .then((r) => (r.ok ? r.json() : null))
+  .then((data) => {
+    if (!data) return;
+    const box = document.createElement("aside");
+    box.className = "foot";
+    box.style.cssText = "margin-top:1.25rem;padding:0.85rem 1rem;border:1px solid var(--line,#243041);border-radius:12px;max-width:1100px;margin-left:auto;margin-right:auto";
+    box.innerHTML = "<strong>Web insights</strong><div>" + (data.headline || "") + "</div><div style=\"opacity:.85\">" + (data.summary || "") + "</div>";
+    document.body.appendChild(box);
+  })
+  .catch(() => {});
