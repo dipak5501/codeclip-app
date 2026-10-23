@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-23T16:00:49.439Z",
-  "featureId": "web-learn-2026-10-23T16",
+  "at": "2026-10-23T19:00:12.465Z",
+  "featureId": "web-learn-2026-10-23T18",
   "slug": "codeclip",
   "idea": {
-    "headline": "Enhance CodeClip with User Feedback and AI Integration",
-    "summary": "By incorporating user feedback mechanisms and integrating AI for code suggestion, the Code Clipper can become more intuitive and efficient. Additionally, implementing a tagging system based on popular trends will help users easily find relevant snippets.",
+    "headline": "Enhance CodeClip with Trend Signals",
+    "summary": "By incorporating public trend signals, the CodeSnip Clipper and Organizer can be improved to better meet user needs. This app can benefit from integrating AI-driven code categorization and search capabilities, as well as adding a feature for organizing snippets by project or context.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 26987
+      "score": 27395
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 20805
+      "score": 20938
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 4802
+      "score": 4837
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4465
+      "score": 4472
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 3787
+      "score": 3857
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 3733
+      "score": 3779
     },
     {
       "source": "github_search",
       "title": "HeyPuter/everything",
       "url": "https://github.com/HeyPuter/everything",
-      "score": 3701
+      "score": 3713
     },
     {
       "source": "github_search",
       "title": "Arekejoker/qwen21-nsfw-pose-skill",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "score": 3665
+      "score": 3669
     },
     {
       "source": "github_search",
       "title": "onehumanbeing/esp32-iphone-agent",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "score": 3615
+      "score": 3623
     },
     {
       "source": "github_search",
       "title": "liseami/CCBaga",
       "url": "https://github.com/liseami/CCBaga",
-      "score": 2908
+      "score": 2909
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 2689
+      "score": 2745
     },
     {
       "source": "github_search",
       "title": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative",
-      "score": 2416
+      "score": 2494
     }
   ]
 }

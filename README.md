@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with User Feedback and AI Integration
+**Latest:** Enhance CodeClip with Trend Signals
 
-By incorporating user feedback mechanisms and integrating AI for code suggestion, the Code Clipper can become more intuitive and efficient. Additionally, implementing a tagging system based on popular trends will help users easily find relevant snippets.
+By incorporating public trend signals, the CodeSnip Clipper and Organizer can be improved to better meet user needs. This app can benefit from integrating AI-driven code categorization and search capabilities, as well as adding a feature for organizing snippets by project or context.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
