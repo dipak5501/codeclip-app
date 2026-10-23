@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Trend Signals
 
-By incorporating public trend signals, the CodeSnip Clipper and Organizer can be improved to better meet user needs. This app can benefit from integrating AI-driven code categorization and search capabilities, as well as adding a feature for organizing snippets by project or context.
+By integrating features from the cleanyourtv and DeepInfer projects, CodeClip can improve its user interface and code analysis capabilities, making it more efficient for developers to manage their snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
