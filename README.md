@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Modern Features
+**Latest:** Enhance Code Clipper and Organizer
 
-Integrate real-time code syntax highlighting, add a dark mode option for better readability, and implement a snippet sharing feature to allow users to easily share their code snippets on social media platforms.
+To improve the Code Snippet Clipper and Organizer, focus on integrating AI-based code suggestions, adding a collaborative feature for team projects, and implementing a search optimization to enhance usability.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
