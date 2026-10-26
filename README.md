@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI-Powered Snippet Organization
 
-Integrate machine learning features to categorize and suggest relevant code snippets, improving user experience. Implement a real-time collaboration feature for team projects. Add a snippet search bar with advanced filtering options.
+Integrate machine learning for smarter categorization and search, add real-time collaboration features, and implement a user-friendly interface for better snippet management.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
