@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trend Signals
+**Latest:** Enhance CodeClip with Public Trend Signals
 
-Utilize trending signals like code cleaning and GPU unlocking to improve the functionality of CodeClip, making it more efficient for developers by integrating features that help manage and clean up their local environments.
+By incorporating features from related projects, CodeClip can improve its snippet organization and sharing capabilities. Integrating AI-based suggestions for code optimization and categorization could enhance user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
