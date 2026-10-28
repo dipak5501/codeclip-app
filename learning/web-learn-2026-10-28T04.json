@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-28T04:59:29.919Z",
+  "featureId": "web-learn-2026-10-28T04",
+  "slug": "codeclip",
+  "idea": {
+    "headline": "Enhance CodeClip with AI-Powered Snippet Organization",
+    "summary": "By integrating machine learning algorithms, CodeClip can automatically categorize and suggest relevant tags for code snippets, improving user experience and efficiency. Additionally, incorporating real-time collaboration features will allow developers to share and discuss snippets more effectively.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 42219
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 23473
+    },
+    {
+      "source": "github_search",
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 11565
+    },
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 6998
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 6085
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5083
+    },
+    {
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 4532
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4317
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 3640
+    },
+    {
+      "source": "github_search",
+      "title": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "score": 3280
+    },
+    {
+      "source": "github_search",
+      "title": "amosblomqvist/learnharness",
+      "url": "https://github.com/amosblomqvist/learnharness",
+      "score": 3202
+    },
+    {
+      "source": "github_search",
+      "title": "kingcharleslzy-ai/dsh-purge",
+      "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+      "score": 3080
+    }
+  ]
+}
