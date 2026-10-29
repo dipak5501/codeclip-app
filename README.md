@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with AI-Powered Snippet Suggestions
+**Latest:** Enhance CodeClip with Public Trend Signals
 
-By integrating AI-driven snippet suggestions, CodeClip can offer developers more relevant and useful code snippets directly within the app. This will improve user experience and productivity by reducing search time and providing better coding assistance.
+Integrate AI-powered code analysis, improve GPU compatibility for faster rendering of code snippets, and add a feature to clean up local storage to optimize performance.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
