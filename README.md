@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Code Snippet Clipper and Organizer
+**Latest:** Enhance CodeClip with Trend Insights
 
-By integrating public trend signals, the codeclip app can offer more efficient snippet management and sharing features. This will help users organize their coding notes better and collaborate with others effectively.
+By integrating public trend signals, CodeClip can offer more relevant and efficient ways to organize code snippets, enhancing user experience and productivity.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
