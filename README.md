@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trending Features
+**Latest:** Enhance Code Snippet Management
 
-Integrate trending functionalities such as snippet categorization, GPU unlock support, and zero-breach security measures to improve user experience and functionality of the Code Clipper and Organizer app.
+Integrate real-time trend analysis to automatically categorize and tag code snippets, improve user interface for better organization, and add a feature to share snippets directly via social media platforms.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
