@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-30T16:01:44.732Z",
-  "featureId": "web-learn-2026-10-30T16",
+  "at": "2026-10-30T17:49:22.617Z",
+  "featureId": "web-learn-2026-10-30T17",
   "slug": "codeclip",
   "idea": {
     "headline": "Enhance CodeClip with Public Trend Signals",
-    "summary": "By integrating features from projects like GPU Unlock and CleanYourTV, the Code Clipper can offer more efficient code snippet management and local storage optimization.",
+    "summary": "Integrate features from trending projects like 'gpu-unlock' and 'cleanyourtv' to improve code snippet organization, enhance user experience, and boost functionality.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 46320
+      "score": 46425
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13390
+      "score": 13416
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8013
+      "score": 8026
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6559
+      "score": 6568
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5473
+      "score": 5479
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5450
+      "score": 5458
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5236
+      "score": 5283
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5014
+      "score": 5025
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4567
+      "score": 4570
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 3862
+      "score": 3904
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 3789
+      "score": 3813
     },
     {
       "source": "github_search",
       "title": "aicodeking/leanrea",
       "url": "https://github.com/aicodeking/leanrea",
-      "score": 3724
+      "score": 3729
     }
   ]
 }
