@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Modern Trends
+**Latest:** Enhance CodeClip with Trending Features
 
-Integrate GPU unlock features to optimize code snippet rendering, add a zero-breach security module for enhanced data protection, and incorporate leanREA principles for streamlined user experience.
+Integrate trending functionalities such as snippet categorization, GPU unlock support, and zero-breach security measures to improve user experience and functionality of the Code Clipper and Organizer app.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
