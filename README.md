@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trend Signals
+**Latest:** Enhance CodeClip with Trending Features
 
-Integrate GPU unlock functionalities and clean-up tools to improve performance, add AI-driven code categorization for better organization, and incorporate lean design principles for user-friendly interfaces.
+Integrate trending features from cleanyourtv and gpu-unlock to improve user experience, add support for MacNativeGames to broaden compatibility, and incorporate cn-math-taxonomy for educational value.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
