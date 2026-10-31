@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Public Trend Signals
 
-By incorporating public trend signals, the CodeClip app can improve user experience and functionality. This includes integrating real-time code snippet categorization, enhancing privacy settings for sensitive data, and adding a feature to share snippets directly via social media.
+By integrating features from related projects, CodeClip can improve its code snippet management capabilities and user experience. These improvements will help users more effectively organize and share their snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
