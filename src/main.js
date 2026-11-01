@@ -7,6 +7,7 @@ import {
   filterSnippets,
   exportJson,
   importJson,
+  togglePin,
 } from "./store.js";
 
 const root = document.querySelector("#app");
@@ -50,7 +51,7 @@ function render() {
             ${list
               .map(
                 (s) => `<li class="${s.id === selectedId ? "active" : ""}" data-id="${s.id}">
-              <strong>${escapeHtml(s.title)}</strong>
+              <strong>${s.pinned ? "📌 " : ""}${escapeHtml(s.title)}</strong>
               <span>${escapeHtml(s.language)}${s.tags?.length ? " · " + escapeHtml(s.tags.join(", ")) : ""}</span>
             </li>`,
               )
@@ -69,6 +70,7 @@ function render() {
             <textarea id="code" spellcheck="false" placeholder="Paste code">${escapeHtml(current.code)}</textarea>
             <div class="row">
               <button type="button" id="save">Save</button>
+              <button type="button" class="ghost" id="pin">Pin / unpin</button>
               <button type="button" class="ghost" id="copy">Copy code</button>
               <button type="button" class="danger" id="del">Delete</button>
               <span id="msg" class="msg"></span>
@@ -130,6 +132,12 @@ function render() {
     saveSnippets(snippets);
     const msg = root.querySelector("#msg");
     msg.textContent = dup ? "Saved (warning: duplicate title exists)." : "Saved.";
+    render();
+  });
+  root.querySelector("#pin")?.addEventListener("click", () => {
+    if (!current) return;
+    snippets = togglePin(snippets, current.id);
+    saveSnippets(snippets);
     render();
   });
   root.querySelector("#copy")?.addEventListener("click", async () => {
