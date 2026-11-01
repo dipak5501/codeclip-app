@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Public Trend Signals
 
-Integrate real-time code snippet categorization and AI-driven suggestions to improve user experience, and add a feature for sharing snippets directly via social media platforms.
+Integrate real-time coding trends and user-friendly interface improvements to boost the usability of CodeClip, a local web app for organizing code snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
