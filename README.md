@@ -38,8 +38,6 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Public Trend Signals
 
-Integrate real-time code snippet categorization and user feedback mechanisms to improve the organization and sharing experience, while incorporating a dark mode feature for better usability in low-light environments.
+By integrating features from popular projects, CodeClip can become more versatile and user-friendly. Enhancements will focus on improving code snippet categorization, adding real-time collaboration tools, and incorporating AI-driven suggestions for better coding practices.
 
 See `learning/LATEST.json` and `public/insights.json`.
-
-
