@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI-Powered Features
 
-Integrate AI to automatically categorize and tag code snippets, and use machine learning models for personalized recommendations based on user behavior. Implement real-time collaboration features using websockets to allow developers to share and discuss code snippets in real time.
+Integrate AI-driven code analysis and categorization to improve user experience, and leverage real-time collaboration tools for better sharing of code snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
