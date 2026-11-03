@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with AI-Powered Features
+**Latest:** Enhance Code Snippet Clipper and Organizer
 
-Integrate AI-driven code analysis and categorization to improve user experience, and add a snippet sharing feature using public trends for better community engagement.
+Integrate AI-powered code suggestion features to improve snippet organization, add a dark mode for better readability in low-light environments, and implement a tagging system for easier search and categorization.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
