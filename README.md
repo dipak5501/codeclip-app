@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI-Powered Features
 
-Integrate advanced text analysis and categorization to improve the organization of code snippets, and leverage AI for smart suggestions based on user behavior to enhance the sharing experience.
+Integrate AI-driven code analysis and categorization to improve user experience, and add a snippet sharing feature using public trends for better community engagement.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
