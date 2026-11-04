@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI-Powered Features
 
-Integrate natural language processing for better code snippet categorization and search, incorporate machine learning models to suggest relevant snippets based on context, and implement a user feedback system to continuously improve the app’s recommendations.
+By integrating public trend signals, CodeClip can offer advanced features such as automated code categorization and real-time syntax highlighting. These improvements will make the app more efficient and user-friendly for developers.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
