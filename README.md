@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI-Powered Features
 
-By integrating AI-driven functionalities, the Code Snippet Clipper and Organizer can offer smarter categorization, personalized recommendations, and enhanced search capabilities, making it more efficient for developers to manage their code snippets.
+Integrate natural language processing for better code snippet categorization and search, incorporate machine learning models to suggest relevant snippets based on context, and implement a user feedback system to continuously improve the app’s recommendations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
