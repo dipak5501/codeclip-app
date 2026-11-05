@@ -1,7 +1,5 @@
 {
   "shipped": [
-    "web-learn-2026-11-01T03",
-    "language-filter-v1",
     "web-learn-2026-11-01T06",
     "pinned-favorites-v1",
     "web-learn-2026-11-01T09",
@@ -39,6 +37,8 @@
     "web-learn-2026-11-05T05",
     "web-learn-2026-11-05T08",
     "web-learn-2026-11-05T11",
-    "web-learn-2026-11-05T14"
+    "web-learn-2026-11-05T14",
+    "real-snippet-desk-v1",
+    "web-learn-2026-11-05T17"
   ]
 }
