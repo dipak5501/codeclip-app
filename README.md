@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Codeclip with User Feedback and Security Features
+**Latest:** Enhance CodeClip with AI-Powered Features
 
-To improve the user experience and security of Codeclip, integrate real-time feedback mechanisms for users to suggest improvements and report issues. Implement secure coding practices to prevent vulnerabilities such as those seen in MS Paint's remote code execution issue.
+By integrating AI-driven functionalities, the Code Clipper and Organizer can offer more intelligent code snippet categorization and search capabilities, enhancing user experience. This will make it easier for developers to find relevant snippets quickly and efficiently.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
