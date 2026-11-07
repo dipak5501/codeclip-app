@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI-Powered Features
 
-Integrate advanced text summarization and code suggestion capabilities to improve user experience, making it easier for developers to organize and find relevant snippets quickly.
+Integrate natural language processing and code suggestion functionalities to improve user experience, and leverage machine learning for better snippet categorization.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
