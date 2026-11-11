@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with AI and User Experience Improvements
+**Latest:** Enhance CodeClip with AI-Powered Features
 
-By integrating public trend signals, the CodeClip app can leverage AI for better code snippet categorization and user experience enhancements to make it more engaging and efficient.
+Integrate AI-driven code analysis and categorization to improve user experience, and implement a real-time collaboration feature inspired by Minireel/HGhub for better teamwork. Add a customizable snippet tagging system based on Eglantine-Community/Eglantine's tag management approach.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
