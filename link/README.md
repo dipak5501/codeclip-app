@@ -2,13 +2,13 @@
 
 ## Open now
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/codeclip/
+https://reproduced-barrier-sight-fashion.trycloudflare.com/a/codeclip/
 
 | | |
 | --- | --- |
 | Tunnel | Cloudflare quick tunnel (`*.trycloudflare.com`) |
 | Local | http://127.0.0.1:8788/ |
-| Updated | 2026-11-05T10:52:52.322Z |
+| Updated | 2026-11-12T17:31:58.157Z |
 | GitHub | https://github.com/dipak5501/codeclip-app |
 
 Also listed on https://github.com/dipak5501/daily-app-hub
