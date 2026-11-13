@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI-Powered Features
 
-By integrating public trend signals, CodeClip can be improved to offer more advanced functionalities such as code snippet categorization and smart search. This will help users organize their snippets more efficiently and find relevant code faster.
+Integrate AI-driven code analysis and categorization to improve user experience, and add a chatbot for real-time support and suggestions. Implement a recommendation system based on popular coding patterns and trends.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
