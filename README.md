@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhancing CodeClip with Public Trend Signals
+**Latest:** Enhance CodeClip with Trend Signals
 
-By integrating features from Minireel/HGhub and janestreet/agent_skills, codeclip can improve user experience through enhanced snippet categorization and automation. GestaltX’s visual analytics could offer insights into coding trends, while KKKKhazix/agent-autoloop’s AI capabilities can automate repetitive tasks.
+By integrating features from Minireel/HGhub and janestreet/agent_skills, CodeClip can offer more intuitive navigation and collaboration tools. Adding elements from huamidev/GestaltX will streamline snippet organization for better user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
