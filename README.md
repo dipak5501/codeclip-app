@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Trend Signals
 
-Integrate real-time code snippet sharing and collaboration features to align with popular trends like Minireel/HGhub, while improving user interface and experience inspired by GestaltX.
+Integrate real-time code snippet categorization and sharing features to improve user experience, and add a collaborative coding environment to foster community interaction.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
