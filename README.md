@@ -38,6 +38,8 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Trend Signals
 
-By integrating features from Minireel/HGhub and janestreet/agent_skills, codeclip can improve user experience through better organization and sharing of code snippets. Adding elements from huamidev/GestaltX will further streamline the process.
+Integrate real-time code snippet sharing and collaboration features to align with popular trends like Minireel/HGhub, while improving user interface and experience inspired by GestaltX.
 
 See `learning/LATEST.json` and `public/insights.json`.
+
+
