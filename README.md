@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trend Signals
+**Latest:** Enhance CodeClip with Trend Insights
 
-Integrate features from Minireel/HGhub for collaborative coding and agent_skills for advanced automation to boost functionality. Implement GestaltX's UI/UX improvements for a more user-friendly experience.
+Integrate real-time trend signals to improve user engagement and functionality, making CodeClip a more dynamic tool for developers. Leverage these insights to refine the app's categorization system and enhance its search capabilities.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
