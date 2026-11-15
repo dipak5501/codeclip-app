@@ -38,8 +38,6 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Trend Signals
 
-By integrating features from Minireel/HGhub and libracoder/kiri, CodeClip can offer more robust snippet management and sharing capabilities. Adding a terminal interface inspired by govijr/terminal-mac will also improve usability.
+By integrating features from Minireel/HGhub and janestreet/agent_skills, codeclip can improve user experience through better organization and sharing of code snippets. Adding elements from huamidev/GestaltX will further streamline the process.
 
 See `learning/LATEST.json` and `public/insights.json`.
-
-
