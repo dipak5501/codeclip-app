@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trend Insights
+**Latest:** Enhance CodeClip with Trend Signals
 
-Integrate real-time trend signals to improve user engagement and functionality, making CodeClip a more dynamic tool for developers. Leverage these insights to refine the app's categorization system and enhance its search capabilities.
+By integrating features from Minireel/HGhub and libracoder/kiri, CodeClip can offer more robust snippet management and sharing capabilities. Adding a terminal interface inspired by govijr/terminal-mac will also improve usability.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
