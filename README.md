@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trend Signals
+**Latest:** Enhance CodeClip with Modern Features
 
-Integrate real-time collaboration features and AI-driven code suggestions to boost user engagement and productivity. Implement a more intuitive interface inspired by Minireel/HGhub for better organization of snippets.
+Integrate real-time collaboration tools and AI-driven suggestions to improve the user experience, and implement a more intuitive interface for better snippet management.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
