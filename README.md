@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Public Trend Signals
+**Latest:** Enhance CodeClip with Trend Insights
 
-Integrate real-time collaboration features inspired by Minireel/HGhub and agent management tools from KKKKhazix/agent-autoloop to boost user engagement. Implement a snippet categorization system similar to janestreet/agent_skills for better organization.
+Integrate real-time trend signals to improve user engagement and functionality, making CodeClip a more dynamic tool for developers. Enhancements will focus on integrating interactive features and improving snippet categorization.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
