@@ -2,13 +2,13 @@
 
 ## Open now
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/codeclip/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/codeclip/
 
 | | |
 | --- | --- |
 | Tunnel | Cloudflare quick tunnel (`*.trycloudflare.com`) |
 | Local | http://127.0.0.1:8788/ |
-| Updated | 2026-11-13T22:46:50.711Z |
+| Updated | 2026-11-17T22:47:29.045Z |
 | GitHub | https://github.com/dipak5501/codeclip-app |
 
 Also listed on https://github.com/dipak5501/daily-app-hub
