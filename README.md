@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trend Signals
+**Latest:** Enhance CodeClip with Public Trend Signals
 
-By integrating features from Minireel/HGhub and janestreet/agent_skills, CodeClip can improve its snippet organization capabilities and user experience. Adding a chat interface similar to deepseek-ai/chat-demo will boost engagement.
+By integrating features from recent public projects, the Code Snippet Clipper and Organizer can become more versatile and user-friendly. This includes improving snippet categorization, adding real-time collaboration tools, and enhancing search functionality.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
