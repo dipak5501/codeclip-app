@@ -36,8 +36,10 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trending Features
+**Latest:** Enhance CodeClip with Modern Features
 
-Integrate real-time collaboration and version control to boost productivity, add a snippet tagging system for better organization, and implement a dark mode for improved user experience.
+Integrate real-time collaboration tools and code formatting options to make the CodeSnipper Clipper and Organizer more user-friendly and efficient for developers. Implement a dark mode theme to enhance usability in low-light environments.
 
 See `learning/LATEST.json` and `public/insights.json`.
+
+
