@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Modern Features
+**Latest:** Enhance CodeClip with Trend Signals
 
-Integrate real-time collaboration tools and AI-driven code suggestions to boost productivity, and add a battery monitoring feature for better device management during development sessions.
+By integrating features from recent GitHub projects, CodeClip can become more robust and user-friendly. Adding real-time code analysis, enhanced snippet categorization, and improved sharing options will align the app with current trends in web development tools.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
