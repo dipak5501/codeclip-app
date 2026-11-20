@@ -31,12 +31,18 @@ export function removeSnippet(list, id) {
 
 export function filterSnippets(list, { query = "", language = "" } = {}) {
   const q = query.trim().toLowerCase();
-  return list.filter((s) => {
-    if (language && (s.language || "").toLowerCase() !== language.toLowerCase()) return false;
-    if (!q) return true;
-    const hay = [s.title, s.language, s.code, ...(s.tags || [])].join(" ").toLowerCase();
-    return hay.includes(q);
-  });
+  return list
+    .filter((s) => {
+      if (language && (s.language || "").toLowerCase() !== language.toLowerCase()) return false;
+      if (!q) return true;
+      const hay = [s.title, s.language, s.code, ...(s.tags || [])].join(" ").toLowerCase();
+      return hay.includes(q);
+    })
+    .sort((a, b) => Number(Boolean(b.pinned)) - Number(Boolean(a.pinned)));
+}
+
+export function togglePin(list, id) {
+  return list.map((s) => (s.id === id ? { ...s, pinned: !s.pinned, updatedAt: new Date().toISOString() } : s));
 }
 
 export function exportJson(list) {
