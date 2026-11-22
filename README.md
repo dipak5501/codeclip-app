@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Modern Features
+**Latest:** Enhance CodeClip with Public Trend Signals
 
-Integrate real-time collaboration tools and AI-driven code suggestions to boost productivity, while adding a dark mode for better readability in low-light environments.
+Integrate real-time collaboration features inspired by GestaltX and Rust-Anything to boost user engagement, and implement a snippet sharing system similar to Wireless-Device-Battery-Monitor for better visibility.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
