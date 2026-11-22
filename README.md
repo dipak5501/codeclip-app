@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Trend Insights
 
-Integrate real-time data from popular repositories to provide users with trending coding practices and languages, improve user experience through personalized recommendations, and enable seamless sharing of snippets via social media platforms.
+Integrate real-time trend signals to provide users with relevant and popular code snippets, improving the app’s relevance and user engagement. Implement a feature for collaborative coding sessions based on trending topics to foster community interaction.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
