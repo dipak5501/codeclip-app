@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with AI Integration
+**Latest:** Enhance CodeClip with Trend Signals
 
-By integrating AI features, CodeClip can offer smarter code suggestions and categorization, improving user experience and productivity. Additionally, incorporating real-time collaboration tools will allow developers to share and discuss snippets more effectively.
+Integrate real-time analytics and AI-driven insights to improve user experience, automate categorization of code snippets, and provide personalized recommendations for better organization.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
