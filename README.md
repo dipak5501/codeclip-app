@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with AI and Automation
 
-Integrate AI for code snippet categorization and automation tools to streamline the organization process, improving user experience and efficiency.
+Integrate AI for code snippet suggestions based on user context and history, automate categorization to reduce manual effort, and add a feature for sharing snippets directly via chat platforms.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
