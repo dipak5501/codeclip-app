@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with AI and Automation
+**Latest:** Enhance CodeClip with Modern Features
 
-Integrate AI for code snippet suggestions based on user context and history, automate categorization to reduce manual effort, and add a feature for sharing snippets directly via chat platforms.
+Integrate real-time collaboration tools and AI-powered code suggestions to improve the user experience of CodeClip, making it more efficient for developers to organize and share snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
