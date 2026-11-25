@@ -36,10 +36,8 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Trend Signals
+**Latest:** Enhance CodeClip with Trend Insights
 
-Integrate real-time trend signals to dynamically categorize and prioritize code snippets, improve user interface for better navigation, and implement a collaborative feature allowing users to share and discuss snippets in real time.
+By integrating public trend signals, CodeClip can improve its functionality and user experience. This will help users stay updated on popular coding trends and tools while organizing their code snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
-
-
