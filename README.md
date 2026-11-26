@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Public Trend Signals
+**Latest:** Enhance CodeClip with Trend Signals
 
-By incorporating features from trending repositories, CodeClip can improve its snippet management and sharing capabilities. This will make it more user-friendly and competitive in the local development environment.
+By incorporating public trend signals, the Code Clipper and Organizer app can improve its functionality and user experience. This will help users more effectively organize and share code snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
