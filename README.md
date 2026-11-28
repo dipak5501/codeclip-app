@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Public Trend Signals
+**Latest:** Enhance CodeClip with Modern Features
 
-By integrating features from popular repositories, CodeClip can offer a more robust and user-friendly experience for organizing code snippets. This includes enhancing search capabilities, improving snippet categorization, and adding real-time collaboration tools.
+To stay relevant, CodeClip can integrate real-time collaboration features and improve its snippet organization through user-defined tags and categories. Adding a dark mode option will also enhance the user experience for night-time coding sessions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
