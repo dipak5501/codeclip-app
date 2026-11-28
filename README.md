@@ -38,7 +38,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance CodeClip with Trend Signals
 
-By incorporating public trend signals, the CodeSnip Clipper and Organizer can improve its functionality and user experience. This will help users more effectively manage their code snippets.
+By integrating features from popular repositories, CodeClip can improve its code snippet management capabilities and user experience. These enhancements will make the app more versatile and efficient for developers.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
