@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Modern Features
+**Latest:** Enhance CodeClip with Trend Signals
 
-To stay relevant, CodeClip should integrate real-time collaboration and advanced tagging systems to match the evolving needs of developers. Additionally, incorporating a dark mode can improve user experience in low-light environments.
+By incorporating public trend signals, the CodeSnip Clipper and Organizer can improve its functionality and user experience. This will help users more effectively manage their code snippets.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
