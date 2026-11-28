@@ -36,9 +36,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance CodeClip with Modern Features
+**Latest:** Enhance CodeClip with Public Trend Signals
 
-To stay relevant, CodeClip can integrate real-time collaboration features and improve its snippet organization through user-defined tags and categories. Adding a dark mode option will also enhance the user experience for night-time coding sessions.
+By integrating features from popular repositories like rust-anything and fast-anything, CodeClip can offer more robust code snippet management capabilities. Adding support for Obsidian Prism will also improve its usability as a note-taking tool for developers.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
